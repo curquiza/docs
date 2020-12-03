@@ -83,13 +83,13 @@ In addition to managing organization-level settings, organization owners have ad
 | [Publish packages](/packages/publishing-and-managing-packages/publishing-a-package) | | | **X** | **X** | **X** |
 | [Delete packages](/packages/publishing-and-managing-packages/deleting-a-package) | | |  |  | **X** | {% endif %}
 | Manage [topics](/articles/classifying-your-repository-with-topics) | | | | **X** | **X** |
-| Enable wikis and restrict wiki editors | | | | **X** | **X** |
-| Enable project boards | | | | **X** | **X** |
-| Configure [pull request merges](/articles/configuring-pull-request-merges) | | | | **X** | **X** |
-| Configure [a publishing source for {% data variables.product.prodname_pages %}](/articles/configuring-a-publishing-source-for-github-pages) | | | | **X** | **X** |
+| Enable wikis and restrict wiki editors | | | | | **X** |
+| Enable project boards | | | | | **X** |
+| Configure [pull request merges](/articles/configuring-pull-request-merges) | | | | | **X** |
+| Configure [a publishing source for {% data variables.product.prodname_pages %}](/articles/configuring-a-publishing-source-for-github-pages) | | | | | **X** |
 | [Push to protected branches](/articles/about-protected-branches) | | | | **X** | **X** |
 | [Create and edit repository social cards](/articles/customizing-your-repositorys-social-media-preview) | | | | **X** | **X** |{% if currentVersion == "free-pro-team@latest" %}
-| Limit [interactions in a repository](/github/building-a-strong-community/limiting-interactions-in-your-repository)| | | | **X** | **X** |{% endif %}
+| Limit [interactions in a repository](/github/building-a-strong-community/limiting-interactions-in-your-repository)| | | | | **X** |{% endif %}
 | Delete an issue (see "[Deleting an issue](/articles/deleting-an-issue)") | | | | | **X** |
 | Merge pull requests on protected branches, even if there are no approving reviews | | | | | **X** |
 | [Define code owners for a repository](/articles/about-code-owners) | | | | | **X** |
